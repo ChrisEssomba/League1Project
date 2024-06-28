@@ -1,0 +1,22 @@
+[
+{"Position": "1", "Club": "Manchester City", "Played": "38", "Won": "28", "Drawn": "7", "Lost": "3", "Points": "91"},
+{"Position": "2", "Club": "Arsenal", "Played": "38", "Won": "28", "Drawn": "5", "Lost": "5", "Points": "89"},
+{"Position": "3", "Club": "Liverpool", "Played": "38", "Won": "24", "Drawn": "10", "Lost": "4", "Points": "82"},
+{"Position": "4", "Club": "Aston Villa", "Played": "38", "Won": "20", "Drawn": "8", "Lost": "10", "Points": "68"},
+{"Position": "5", "Club": "Tottenham Hotspur", "Played": "38", "Won": "20", "Drawn": "6", "Lost": "12", "Points": "66"},
+{"Position": "6", "Club": "Chelsea", "Played": "38", "Won": "18", "Drawn": "9", "Lost": "11", "Points": "63"},
+{"Position": "7", "Club": "Newcastle United", "Played": "38", "Won": "18", "Drawn": "6", "Lost": "14", "Points": "60"},
+{"Position": "8", "Club": "Manchester United", "Played": "38", "Won": "18", "Drawn": "6", "Lost": "14", "Points": "60"},
+{"Position": "9", "Club": "West Ham United", "Played": "38", "Won": "14", "Drawn": "10", "Lost": "14", "Points": "52"},
+{"Position": "10", "Club": "Crystal Palace", "Played": "38", "Won": "13", "Drawn": "10", "Lost": "15", "Points": "49"},
+{"Position": "11", "Club": "Brighton and Hove Albion", "Played": "38", "Won": "12", "Drawn": "12", "Lost": "14", "Points": "48"},
+{"Position": "12", "Club": "Bournemouth", "Played": "38", "Won": "13", "Drawn": "9", "Lost": "16", "Points": "48"},
+{"Position": "13", "Club": "Fulham", "Played": "38", "Won": "13", "Drawn": "8", "Lost": "17", "Points": "47"},
+{"Position": "14", "Club": "Wolverhampton Wanderers", "Played": "38", "Won": "13", "Drawn": "7", "Lost": "18", "Points": "46"},
+{"Position": "15", "Club": "Everton", "Played": "38", "Won": "13", "Drawn": "9", "Lost": "16", "Points": "40"},
+{"Position": "16", "Club": "Brentford", "Played": "38", "Won": "10", "Drawn": "9", "Lost": "19", "Points": "39"},
+{"Position": "17", "Club": "Nottingham Forest", "Played": "38", "Won": "9", "Drawn": "9", "Lost": "20", "Points": "32"},
+{"Position": "18", "Club": "Luton Town", "Played": "38", "Won": "6", "Drawn": "8", "Lost": "24", "Points": "26"},
+{"Position": "19", "Club": "Burnley", "Played": "38", "Won": "5", "Drawn": "9", "Lost": "24", "Points": "24"},
+{"Position": "20", "Club": "Sheffield United", "Played": "38", "Won": "3", "Drawn": "7", "Lost": "28", "Points": "16"}
+]
